@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay72/Namaste-React.git"
+  },
+  "keywords": [],
+  "author": "Akshay Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinay72/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/vinay72/Namaste-React#readme",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
